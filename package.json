@@ -1,7 +1,7 @@
 {
   "name": "ft-api-key-updater",
   "version": "1.0.0",
-  "description": "CLI Tool to update 42 API key",
+  "description": "CLI Tool to assist in updating API keys for 42 API",
   "private": true,
   "main": "index.ts",
   "license": "MIT",
