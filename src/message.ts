@@ -25,7 +25,7 @@ export const confirmExecution = async (): Promise<boolean> => {
 
 export const showApplicationMessage = (applicationId: string) => {
   console.log();
-  console.log("Please visit your application page and copy secret.");
+  console.log("Please visit your application page and copy the secret.");
   console.log(
     `  URL: ${pico.underline(
       `https://profile.intra.42.fr/oauth/applications/${applicationId}`
