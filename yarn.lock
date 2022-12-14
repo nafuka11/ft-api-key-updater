@@ -57,12 +57,13 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.9.tgz#02d013de7058cea16d36168ef2fc653464cfbad4"
   integrity sha512-CRpX21/kGdzjOpFsZSkcrXMGIBWMGNIHXXBVFSH+ggkftxg+XYP20TESbh+zFvFj3EQOl5byk0HTRn1IL6hbqg==
 
-"@types/prompts@^2.4.1":
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/@types/prompts/-/prompts-2.4.1.tgz#d47adcb608a0afcd48121ff7c75244694a3a04c5"
-  integrity sha512-1Mqzhzi9W5KlooNE4o0JwSXGUDeQXKldbGn9NO4tpxwZbHXYd+WcKpCksG2lbhH7U9I9LigfsdVsP2QAY0lNPA==
+"@types/prompts@^2.4.2":
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/@types/prompts/-/prompts-2.4.2.tgz#0785dc09ca79e15ff11b20b7cda2f87af3165a7d"
+  integrity sha512-TwNx7qsjvRIUv/BCx583tqF5IINEVjCNqg9ofKHRlSoUHE62WBHrem4B1HGXcIrG511v29d1kJ9a/t2Esz7MIg==
   dependencies:
     "@types/node" "*"
+    kleur "^3.0.3"
 
 acorn-walk@^8.1.1:
   version "8.2.0"
